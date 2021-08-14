@@ -5,4 +5,4 @@
 <br />
 
 ## Volumetric Metaballs With Raymarching
-![](gifs/Volumetric Metaball With Raymarching.gif)
++<img src="/gifs/Volumetric Metaball With Raymarching.gif?raw=true" width="200px">
