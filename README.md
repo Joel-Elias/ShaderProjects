@@ -1,4 +1,4 @@
-# Here Are Some Shaders I Have Maid
+# Shader Projects
 
 ### All gifs are from projects that can be found in this repository.
 
